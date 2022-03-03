@@ -5,7 +5,7 @@
 - I made this calculator based on an exercise to learn more about HTML, CSS and JS.
 - It's Free and Open Source, have fun with it!
 - Feel free to Pull Request.
-- Test it here: https://weatherlly.github.io/Calculator-js/
+- Test it here: https://calculator-js.weatherlly.repl.co/
 
 ### My social
 
